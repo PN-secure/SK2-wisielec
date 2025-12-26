@@ -1,0 +1,1 @@
+kot,pies,dom,auto,gra,serwer,klient
